@@ -1,5 +1,8 @@
 # MySQL_Bootcamp
 This repository contains quiz exercises throughout MySQL online bootcamp by MySkill.id
+
+Import the dataset by execute the my_db query
+
 The subjects are include
  - Basic SQL command
  - Conditional
